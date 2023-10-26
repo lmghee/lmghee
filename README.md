@@ -1,4 +1,4 @@
-<div align=center>
+<div align=left>
 
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=D0B8D2&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=lmghee's%20GitHub&descAlign=70.&descAlignY=44)
 
@@ -47,13 +47,4 @@
 <br/>
 <img src= "https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
 
-<br/>
-<p/>
-<br/>
-
-<h2>💜 About ME </h2>
-
-![lmghee's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmghee&show_icons=true&count_private=true&theme=nightowl)
-<br>
-<br>
 </div>
