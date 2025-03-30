@@ -1,7 +1,7 @@
 <div align=left>
 
-![slice](https://capsule-render.vercel.app/api?type=slice&color=D0B8D2&height=160&text=Hi%20there👋&fontSize=40&fontAlign=50&fontAlignY=60&animation=twinkling)
-<!-- ![slice](https://capsule-render.vercel.app/api?type=slice&color=D0B8D2&height=200&text=Hi%20there👋&fontAlign=50&rotate=0&fontAlignY25&desc=lmghee's%20GitHub&descAlign=70&descAlignY=44) -->
+![slice](https://capsule-render.vercel.app/api?type=slice&color=D0B8D2&height=160&text=Hello%20I'm%20talker👋&fontSize=40&fontAlign=50&fontAlignY=60&animation=twinkling)
+<!-- ![slice](https://capsule-render.vercel.app/api?type=slice&color=D0B8D2&height=200&text=Hi%20i'm talker👋&fontAlign=50&rotate=0&fontAlignY25&desc=lmghee's%20GitHub&descAlign=70&descAlignY=44) -->
 
 <h3>✨ Tech Stack </h3>
 <p>
